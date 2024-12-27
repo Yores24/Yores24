@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Saurabh Rawat</h1>
 <h3 align="center">Data Science/AI-ML Enthusiast</h3>
 <img align="right" alt="Compiling" width="400" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
-- 🔭 I’m currently working on Amazon ML Challenge
+- 🔭 I’m currently working on Advanced RAG Systems
 
-- 🌱 I’m currently learning **LLM, MLOPS**
+- 🌱 I’m currently learning **Advance RAG,Financial planning etc**
 
 - 💬 Ask me about **Statistics,ML,AI etc**
 
